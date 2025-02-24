@@ -13,9 +13,4 @@ Zoomed in picture of keyboard:<br>
 * Saves the combinations in a password_list.txt file.
 
 # Run script:
-python3 generate_passwords.py
-
-- **Original post from the Prime Minister:**
-
-- **Zoomed-in look at the keyboard:**
-
+python3 JonasGS.py
