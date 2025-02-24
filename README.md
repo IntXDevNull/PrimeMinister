@@ -9,7 +9,7 @@ Zoomed in picture of keyboard:<br>
 
 # Unless settings are changed:
 * Generates all possible combinations of passwords using the most worn keys observed: E, R, T, A, S, D, F, Ø, and Å.
-* Tries passwords of lengths between 4 to 6 characters, typical for short PINs/Windows Hello.
+* Stores passwords of lengths based on the worn keys, between 4 to 6 characters, typical for short PINs/Windows Hello.
 * Saves the combinations in a password_list.txt file.
 
 # Run script:
